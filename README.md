@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link -> https://instagram-clone-react-3fee2.web.app/
 
 ## Available Scripts
 
